@@ -1,0 +1,44 @@
+section{
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: pink;
+    border-radius: 10px;
+    border-color: white;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+button{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 150px;
+    height: 25px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+input{
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+label{
+    margin-top: 2px;
+}
+
+h1{
+    text-align: center;
+}
+body{
+    transition: background-color 1s, color 1s;
+}
+
+.alterna-formulario{
+    background-color: black;
+    color: pink;
+
+}
